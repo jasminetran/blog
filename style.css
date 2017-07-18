@@ -1,0 +1,70 @@
+/*----structure----*/
+
+header {
+    text-align: center;
+  }
+
+.header-logo {
+  height: 100px;
+}
+
+.header-nav {
+  height: 25px;
+}
+
+
+
+/*---- logo ----*/
+
+header h1 {
+  font-size: 40px;
+  text-align: center;
+  margin: 0;
+  padding-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+/*----navigation ---*/
+
+#top-nav ul {
+  margin: 0;
+  padding: 2px;
+  list-style: none;
+}
+
+#top-nav ul li{
+  display:inline-block;
+  margin-left: 50px;
+  margin-right: 40px;
+}
+
+#top-nav ul li a {
+  font-size: 18px;
+  font-family: Arial, san-serif;
+  color:white;
+  text-decoration: none;
+}
+
+.banner {
+  text-align: center;
+  padding: 70px;
+  margin-left: 95px;
+  margin-right:95px;
+  width: 100px;
+  height: 20px;
+}
+
+.date {
+  font-size: 15px;
+  font-weight: bold;
+  float: left;
+  font-family: Arial, san-serif;
+  padding-top: 20px;
+}
+main {
+  width: 2000px;
+}
+
+.col-md-6 {
+  padding-top: 20px;
+}
